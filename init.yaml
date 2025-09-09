@@ -1,0 +1,4 @@
+version: 0.0.1
+folder_path: plugins/comfy_image_gen_plugin
+type: plugin
+requirements: []
